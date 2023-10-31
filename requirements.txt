@@ -1,0 +1,8 @@
+streamlit
+streamlit_chat
+langchain
+openai
+faiss-cpu
+pypdf
+tiktoken-0.5.1
+base64
