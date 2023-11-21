@@ -24,6 +24,9 @@ To get started with the Chat PDF project, follow these steps:
    ```bash
    streamlit run app.py
 
+4. **Set Up OpenAI API Key:**
+   Obtain an OpenAI API key from OpenAI.
+
 4. **Interact:**
    Open the application in your web browser (usually at http://localhost:8501).
    Upload PDF documents, ask questions, and interact with the chat interface.
