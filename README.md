@@ -39,4 +39,4 @@ Streamlit for the web application framework.
 **Contact**
 If you have any questions or issues, feel free to reach out.
 
-Happy chatting!
+**Happy chatting!**
