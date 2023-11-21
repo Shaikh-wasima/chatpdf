@@ -17,9 +17,11 @@ To get started with the Chat PDF project, follow these steps:
    git clone https://github.com/your-username/chat-pdf-project.git
    cd chat-pdf-project
 2. **Install Dependencies:**
+   ```bash
    pip install -r requirements.txt
 
 3. **Run the Application:**
+   ```bash
    streamlit run app.py
 
 4. **Interact:**
