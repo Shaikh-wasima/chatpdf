@@ -14,7 +14,7 @@ To get started with the Chat PDF project, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/chat-pdf-project.git
+   git clone https://github.com/Shaikh-wasima/chatpdf.git
    cd chatpdf
 2. **Install Dependencies:**
    ```bash
